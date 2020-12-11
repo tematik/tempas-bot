@@ -116,5 +116,5 @@ dist
 .pnp.*
 
 storage/db.json
-storage/profiles
+storage/profiles/*
 !storage/profiles/.gitkeep
