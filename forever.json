@@ -1,0 +1,9 @@
+{
+    "uid": "browser-default",
+    "append": true,
+    "watch": true,
+    "script": "lib/index.js",
+    "args": ["browser:start", "--browser", "1"],
+    "max": 50,
+    "spinSleepTime": 1000
+}
