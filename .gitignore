@@ -117,4 +117,4 @@ dist
 
 storage/db.json
 storage/profiles
-!storage/profile/.gitkeep
+!storage/profiles/.gitkeep
