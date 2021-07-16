@@ -118,3 +118,5 @@ dist
 storage/db.json
 storage/profiles/*
 !storage/profiles/.gitkeep
+
+dist
